@@ -10,8 +10,19 @@
       "id": "1749871925076",
       "income": 2380000,
       "profit": 238000
+    },
+    {
+      "date": "2025-06-14",
+      "location": "Silver",
+      "weight": 550,
+      "pricePerKg": 2800,
+      "expense": 290000,
+      "note": "obedlandik\n",
+      "id": "1749872233907",
+      "income": 1540000,
+      "profit": 154000
     }
   ],
-  "lastUpdated": "2025-06-14T03:32:05.076Z",
-  "totalEntries": 1
+  "lastUpdated": "2025-06-14T03:37:13.908Z",
+  "totalEntries": 2
 }
