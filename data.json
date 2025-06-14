@@ -3,10 +3,17 @@
   "sozlamalar": {
     "standartKgNarxi": 2800,
     "foydaFoizi": 10,
-    "joylar": [],
+    "joylar": [
+      "Golden House",
+      "Imozay",
+      "Tojmahal",
+      "Silver",
+      "Bahor",
+      "RMZ"
+    ],
     "githubIntegratsiya": true
   },
-  "oxirgiYangilanish": "2025-06-14T04:15:35.277Z",
+  "oxirgiYangilanish": "2025-06-14T04:16:19.608Z",
   "jamiChiqimlar": 0,
   "versiya": "2.0"
 }
