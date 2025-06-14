@@ -14,8 +14,21 @@
       "shaxsiyFoyda": 238000,
       "tolovSanasi": "2025-06-14",
       "shaxsiyTolovSanasi": "2025-06-14"
+    },
+    {
+      "sana": "2025-06-14",
+      "joy": "Yangi Bozor",
+      "vazn": 1100,
+      "kgNarxi": 2800,
+      "foydaFoizi": 10,
+      "izoh": "",
+      "tolovHolati": "kutilmoqda",
+      "shaxsiyTolovHolati": "kutilmoqda",
+      "id": "1749873499104",
+      "jami": 3080000,
+      "shaxsiyFoyda": 308000
     }
   ],
-  "oxirgiYangilanish": "2025-06-14T03:56:34.065Z",
-  "jamiChiqimlar": 1
+  "oxirgiYangilanish": "2025-06-14T03:58:19.105Z",
+  "jamiChiqimlar": 2
 }
