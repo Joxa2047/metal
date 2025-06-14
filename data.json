@@ -1,22 +1,17 @@
 {
-  "chiqimlar": [
-  ],
+  "chiqimlar": [],
   "sozlamalar": {
     "standartKgNarxi": 2800,
     "foydaFoizi": 10,
     "joylar": [
-      "Golden House",
-      "Imozay",
-      "Tojmahal",
-      "Silver",
-      "Bahor",
-      "RMZ"
+      "Oltin Bozor",
+      "Temir Bozor",
+      "Markaziy Bozor",
+      "Yangi Bozor"
     ],
     "githubIntegratsiya": true
   },
-  "oxirgiYangilanish": "2025-06-14T04:13:24.517Z",
+  "oxirgiYangilanish": "2025-06-14T04:14:37.916Z",
   "jamiChiqimlar": 0,
-  "versiya": "2.0",
-  "tozalangan": true,
-  "tozalanganVaqt": "2025-06-14T04:13:24.517Z"
+  "versiya": "2.0"
 }
