@@ -22,14 +22,15 @@
       "kgNarxi": 2800,
       "foydaFoizi": 10,
       "izoh": "",
-      "tolovHolati": "kutilmoqda",
+      "tolovHolati": "tolandi",
       "shaxsiyTolovHolati": "tolandi",
       "id": "1749873499104",
       "jami": 3080000,
       "shaxsiyFoyda": 308000,
-      "shaxsiyTolovSanasi": "2025-06-14"
+      "shaxsiyTolovSanasi": "2025-06-14",
+      "tolovSanasi": "2025-06-14"
     }
   ],
-  "oxirgiYangilanish": "2025-06-14T03:58:52.867Z",
+  "oxirgiYangilanish": "2025-06-14T03:58:59.454Z",
   "jamiChiqimlar": 2
 }
