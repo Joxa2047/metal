@@ -1,1 +1,17 @@
-[]
+{
+  "entries": [
+    {
+      "date": "2025-06-14",
+      "location": "Imozay",
+      "weight": 850,
+      "pricePerKg": 2800,
+      "expense": 0,
+      "note": "",
+      "id": "1749871925076",
+      "income": 2380000,
+      "profit": 238000
+    }
+  ],
+  "lastUpdated": "2025-06-14T03:32:05.076Z",
+  "totalEntries": 1
+}
