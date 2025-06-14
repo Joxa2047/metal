@@ -1,5 +1,19 @@
 {
-  "chiqimlar": [],
-  "oxirgiYangilanish": "2025-06-14T03:52:40.782Z",
-  "jamiChiqimlar": 0
+  "chiqimlar": [
+    {
+      "sana": "2025-06-14",
+      "joy": "Markaziy Bozor",
+      "vazn": 850,
+      "kgNarxi": 2800,
+      "foydaFoizi": 10,
+      "izoh": "",
+      "tolovHolati": "kutilmoqda",
+      "shaxsiyTolovHolati": "kutilmoqda",
+      "id": "1749873371340",
+      "jami": 2380000,
+      "shaxsiyFoyda": 238000
+    }
+  ],
+  "oxirgiYangilanish": "2025-06-14T03:56:11.341Z",
+  "jamiChiqimlar": 1
 }
