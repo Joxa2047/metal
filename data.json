@@ -12,6 +12,19 @@
       "id": "1749874634454",
       "jami": 2380000,
       "shaxsiyFoyda": 238000
+    },
+    {
+      "sana": "14/06/2025",
+      "joy": "Silver",
+      "vazn": 200,
+      "kgNarxi": 2800,
+      "foydaFoizi": 10,
+      "izoh": "Joxa ",
+      "tolovHolati": "kutilmoqda",
+      "shaxsiyTolovHolati": "kutilmoqda",
+      "id": "1749897151195",
+      "jami": 560000,
+      "shaxsiyFoyda": 56000
     }
   ],
   "sozlamalar": {
@@ -27,7 +40,7 @@
     ],
     "githubIntegratsiya": true
   },
-  "oxirgiYangilanish": "2025-06-14T04:17:14.454Z",
-  "jamiChiqimlar": 1,
+  "oxirgiYangilanish": "2025-06-14T10:32:31.195Z",
+  "jamiChiqimlar": 2,
   "versiya": "2.0"
 }
