@@ -3,15 +3,10 @@
   "sozlamalar": {
     "standartKgNarxi": 2800,
     "foydaFoizi": 10,
-    "joylar": [
-      "Oltin Bozor",
-      "Temir Bozor",
-      "Markaziy Bozor",
-      "Yangi Bozor"
-    ],
+    "joylar": [],
     "githubIntegratsiya": true
   },
-  "oxirgiYangilanish": "2025-06-14T04:15:21.930Z",
+  "oxirgiYangilanish": "2025-06-14T04:15:35.277Z",
   "jamiChiqimlar": 0,
   "versiya": "2.0"
 }
