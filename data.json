@@ -1,65 +1,19 @@
 {
-  "chiqimlar": [
-    {
-      "sana": "2025-06-14",
-      "joy": "Markaziy Bozor",
-      "vazn": 850,
-      "kgNarxi": 2800,
-      "foydaFoizi": 10,
-      "izoh": "",
-      "tolovHolati": "tolandi",
-      "shaxsiyTolovHolati": "tolandi",
-      "id": "1749873371340",
-      "jami": 2380000,
-      "shaxsiyFoyda": 238000,
-      "tolovSanasi": "2025-06-14",
-      "shaxsiyTolovSanasi": "2025-06-14"
-    },
-    {
-      "sana": "2025-06-14",
-      "joy": "Yangi Bozor",
-      "vazn": 1100,
-      "kgNarxi": 2800,
-      "foydaFoizi": 10,
-      "izoh": "",
-      "tolovHolati": "tolandi",
-      "shaxsiyTolovHolati": "tolandi",
-      "id": "1749873499104",
-      "jami": 3080000,
-      "shaxsiyFoyda": 308000,
-      "shaxsiyTolovSanasi": "2025-06-14",
-      "tolovSanasi": "2025-06-14"
-    },
-    {
-      "sana": "2025-06-14",
-      "joy": "Temir Bozor",
-      "vazn": 900,
-      "kgNarxi": 2800,
-      "foydaFoizi": 10,
-      "izoh": "",
-      "tolovHolati": "tolandi",
-      "shaxsiyTolovHolati": "tolandi",
-      "id": "1749873751242",
-      "jami": 2520000,
-      "shaxsiyFoyda": 252000,
-      "shaxsiyTolovSanasi": "2025-06-14",
-      "tolovSanasi": "2025-06-14"
-    }
-  ],
+  "chiqimlar": [],
   "sozlamalar": {
     "standartKgNarxi": 2800,
     "foydaFoizi": 10,
     "joylar": [
-      "Golden House",
-      "Imozay",
-      "Tojmahal",
-      "Silver",
-      "Bahor",
-      "RMZ"
+      "Oltin Bozor",
+      "Temir Bozor",
+      "Markaziy Bozor",
+      "Yangi Bozor"
     ],
     "githubIntegratsiya": true
   },
-  "oxirgiYangilanish": "2025-06-14T04:04:11.455Z",
-  "jamiChiqimlar": 3,
-  "versiya": "2.0"
+  "oxirgiYangilanish": "2025-06-14T04:13:24.517Z",
+  "jamiChiqimlar": 0,
+  "versiya": "2.0",
+  "tozalangan": true,
+  "tozalanganVaqt": "2025-06-14T04:13:24.517Z"
 }
