@@ -29,8 +29,33 @@
       "shaxsiyFoyda": 308000,
       "shaxsiyTolovSanasi": "2025-06-14",
       "tolovSanasi": "2025-06-14"
+    },
+    {
+      "sana": "2025-06-14",
+      "joy": "Temir Bozor",
+      "vazn": 900,
+      "kgNarxi": 2800,
+      "foydaFoizi": 10,
+      "izoh": "",
+      "tolovHolati": "kutilmoqda",
+      "shaxsiyTolovHolati": "kutilmoqda",
+      "id": "1749873751242",
+      "jami": 2520000,
+      "shaxsiyFoyda": 252000
     }
   ],
-  "oxirgiYangilanish": "2025-06-14T03:58:59.454Z",
-  "jamiChiqimlar": 2
+  "sozlamalar": {
+    "standartKgNarxi": 2800,
+    "foydaFoizi": 10,
+    "joylar": [
+      "Oltin Bozor",
+      "Temir Bozor",
+      "Markaziy Bozor",
+      "Yangi Bozor"
+    ],
+    "githubIntegratsiya": true
+  },
+  "oxirgiYangilanish": "2025-06-14T04:02:31.242Z",
+  "jamiChiqimlar": 3,
+  "versiya": "2.0"
 }
