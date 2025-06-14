@@ -1,13 +1,16 @@
 {
-  "chiqimlar": [],
+  "chiqimlar": [
+  ],
   "sozlamalar": {
     "standartKgNarxi": 2800,
     "foydaFoizi": 10,
     "joylar": [
-      "Oltin Bozor",
-      "Temir Bozor",
-      "Markaziy Bozor",
-      "Yangi Bozor"
+      "Golden House",
+      "Imozay",
+      "Tojmahal",
+      "Silver",
+      "Bahor",
+      "RMZ"
     ],
     "githubIntegratsiya": true
   },
