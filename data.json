@@ -37,12 +37,13 @@
       "kgNarxi": 2800,
       "foydaFoizi": 10,
       "izoh": "",
-      "tolovHolati": "kutilmoqda",
+      "tolovHolati": "tolandi",
       "shaxsiyTolovHolati": "tolandi",
       "id": "1749873751242",
       "jami": 2520000,
       "shaxsiyFoyda": 252000,
-      "shaxsiyTolovSanasi": "2025-06-14"
+      "shaxsiyTolovSanasi": "2025-06-14",
+      "tolovSanasi": "2025-06-14"
     }
   ],
   "sozlamalar": {
@@ -56,7 +57,7 @@
     ],
     "githubIntegratsiya": true
   },
-  "oxirgiYangilanish": "2025-06-14T04:02:53.897Z",
+  "oxirgiYangilanish": "2025-06-14T04:02:58.159Z",
   "jamiChiqimlar": 3,
   "versiya": "2.0"
 }
