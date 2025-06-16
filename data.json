@@ -7,11 +7,12 @@
       "kgNarxi": 2800,
       "foydaFoizi": 10,
       "izoh": "kecha ya'niy 2025-06-13 ",
-      "tolovHolati": "kutilmoqda",
+      "tolovHolati": "tolandi",
       "shaxsiyTolovHolati": "kutilmoqda",
       "id": "1749874634454",
       "jami": 2380000,
-      "shaxsiyFoyda": 238000
+      "shaxsiyFoyda": 238000,
+      "tolovSanasi": "2025-06-16"
     },
     {
       "sana": "14/06/2025",
@@ -41,7 +42,7 @@
     ],
     "githubIntegratsiya": true
   },
-  "oxirgiYangilanish": "2025-06-16T11:52:58.204Z",
+  "oxirgiYangilanish": "2025-06-16T11:53:05.404Z",
   "jamiChiqimlar": 2,
   "versiya": "2.0"
 }
