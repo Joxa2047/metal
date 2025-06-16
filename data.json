@@ -22,11 +22,12 @@
       "foydaFoizi": 10,
       "izoh": "Joxa ",
       "tolovHolati": "tolandi",
-      "shaxsiyTolovHolati": "kutilmoqda",
+      "shaxsiyTolovHolati": "tolandi",
       "id": "1749897151195",
       "jami": 560000,
       "shaxsiyFoyda": 56000,
-      "tolovSanasi": "2025-06-16"
+      "tolovSanasi": "2025-06-16",
+      "shaxsiyTolovSanasi": "2025-06-16"
     }
   ],
   "sozlamalar": {
@@ -42,7 +43,7 @@
     ],
     "githubIntegratsiya": true
   },
-  "oxirgiYangilanish": "2025-06-16T11:53:05.404Z",
+  "oxirgiYangilanish": "2025-06-16T16:27:03.275Z",
   "jamiChiqimlar": 2,
   "versiya": "2.0"
 }
