@@ -1,12 +1,12 @@
 {
   "chiqimlar": [
     {
-      "sana": "2025-06-14",
+      "sana": "2025-06-13",
       "joy": "Silver",
       "vazn": 850,
       "kgNarxi": 2800,
       "foydaFoizi": 10,
-      "izoh": "kecha ya'niy 2025-06-13 ",
+      "izoh": "Joxa",
       "tolovHolati": "tolandi",
       "shaxsiyTolovHolati": "tolandi",
       "id": "1749874634454",
@@ -44,7 +44,7 @@
     ],
     "githubIntegratsiya": true
   },
-  "oxirgiYangilanish": "2025-06-16T16:27:13.934Z",
+  "oxirgiYangilanish": "2025-06-18T09:14:35.348Z",
   "jamiChiqimlar": 2,
   "versiya": "2.0"
 }
